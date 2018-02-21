@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/jannemikkola/JanneRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my Github page. This page is for the course: "Scientific Computing Infrastructures". Code from the course will be posted here to ensure a functional version control system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Previous Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I don't have access to very many of my earlier projects, but below are generally listed some of the works I have participated in.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Various Unity Engine Projects
+- Interactive Flash Animation Projects
+- MC plugins
+- Cryptocurrency trading algorithms (C Sharp)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+List to be updated with working links and examples when possible.
 
-### Jekyll Themes
+### Page Under Construction
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jannemikkola/JanneRepo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This page will be updated as the project moves forward. For now it looks pretty empty.
